@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HelderMoraes&bg_color=0d1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### PROFESSIONAL CONTACTS 🗂️
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HelderMorae
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HelderMorae)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581991983098)
 
 
